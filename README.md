@@ -1,2 +1,2 @@
 # artificial-intelligence-projects
-Respository for Artificial Intelligence course
+Respository of assignments for Artificial Intelligence course 
